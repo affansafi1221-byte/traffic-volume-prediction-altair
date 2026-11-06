@@ -28,5 +28,5 @@ Root mean squared error: 1427.343 (on the test set)
 - `screenshots/` - process and performance screenshots
 
 ## Screenshots
-![Process](traffic-volume-prediction-altair/screenshots/process.png)
-![Performance](traffic-volume-prediction-altair/screenshots/performance.png)
+![Process](traffic-volume-predictor-atliar/screenshots/process.png)
+![Performance](traffic-volume-predictor-atliar/screenshots/performance.png)
